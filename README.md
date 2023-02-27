@@ -39,6 +39,7 @@
 ### 📊 Github Stats
 <a href="https://github.com/LePetitLouis/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LePetitLouis&layout=compact&theme=dark" /></a>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=LePetitLouis&theme=dark" alt="LePetitLouis" />
+
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=LePetitLouis&color=brightgreen)
